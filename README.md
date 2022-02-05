@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @hodanmo15
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+hodanmo15/hodanmo15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+This repository will include all the functions of for NuNorme app.
+This read.me file will include all of the components of the NuNorme app.
+Update as the dev cycle continues.
+--->
